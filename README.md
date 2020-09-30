@@ -341,7 +341,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/a
 
 *Libraries for preprocessing CSS files.*
 
-* [gcss](https://github.com/yosssi/gcss) - Pure Go CSS Preprocessor.
+* [gcss](https://github.com/yosssi/gcss) - (unmaintained) Pure Go CSS Preprocessor.
 * [go-libsass](https://github.com/wellington/go-libsass) - Go wrapper to the 100% Sass compatible libsass project.
 
 ## Data Structures
